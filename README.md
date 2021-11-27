@@ -45,6 +45,3 @@ python app.py
 
 * Run the container: `docker run -it -p 5000:5000 arss`
 
-## Author
-
-# @CodeByte
